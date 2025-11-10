@@ -1,2 +1,0 @@
-# ALGOPRO_LAB_20251110
-bank
